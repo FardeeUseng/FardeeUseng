@@ -1,5 +1,5 @@
 Hii, My name is Fardee Useng, from Thailand
-I study at [Fatoni](https://www.google.com/search?gs_ssp=eJzj4tFP1zeszI3PMSkvNjZg9BJMSyzJz8tUKM3LLEstKs4sqQQAt0QLng&q=fatoni+university&oq=fato&aqs=chrome.1.69i57j46j0l2j0i10i433j46i175i199j0j69i61.4039j0j7&sourceid=chrome&ie=UTF-8)
+I study at [Fatoni University](https://www.google.com/search?gs_ssp=eJzj4tFP1zeszI3PMSkvNjZg9BJMSyzJz8tUKM3LLEstKs4sqQQAt0QLng&q=fatoni+university&oq=fato&aqs=chrome.1.69i57j46j0l2j0i10i433j46i175i199j0j69i61.4039j0j7&sourceid=chrome&ie=UTF-8)
 
 ### My goal in this Year 2021
 1.HTML/CSS
