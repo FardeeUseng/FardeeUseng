@@ -127,20 +127,14 @@
   </a>
 </p>
 
-<ul>
-  <li>
-    🚀 <a href="https://medium.com/@fardee.tat/การใช้-react-window-กับ-react-virtualized-bbb6b1338479" target="_blank">
-      การใช้ react-window กับ react-virtualized
-    </a>
-  </li>
-  <li>
-    🌿 <a href="https://medium.com/@fardee.tat/มาทำความรู้จักกับ-virtual-dom-8d12141948a4" target="_blank">
-      มาทำความรู้จักกับ Virtual DOM
-    </a>
-  </li>
-  <li>
-    ⚙️ <a href="https://medium.com/@fardee.tat/การจัดการ-state-ใน-reactjs-a1aae3d2fa41" target="_blank">
-      การจัดการ state ใน ReactJs
-    </a>
-  </li>
-</ul>
+- 🚀 [การใช้ react-window กับ react-virtualized](https://medium.com/@fardee.tat/การใช้-react-window-กับ-react-virtualized-bbb6b1338479)
+- 🌿 [มาทำความรู้จักกับ Virtual DOM](https://medium.com/@fardee.tat/มาทำความรู้จักกับ-virtual-dom-8d12141948a4)
+- ⚙️ [การจัดการ state ใน ReactJs](https://medium.com/@fardee.tat/การจัดการ-state-ใน-reactjs-a1aae3d2fa41)
+
+## 🙏 References & Credits
+
+- 💻 Tech stack icons generated using [TechStack Generator](https://techstack-generator.vercel.app/)
+- 🎨 Icons from [SimpleIcons](https://simpleicons.org/)
+- 🌀 GIF from [Giphy](https://giphy.com/)
+- 📦 Badges from [Shields.io](https://shields.io/)
+- 📘 README inspired by [rzashakeri](https://github.com/rzashakeri)
