@@ -1,70 +1,148 @@
 <h1 align="center">Hi 👋, I'm Fardee</h1>
-<h3 align="center">A passionate Frontend Developer from Thailand 🇹🇭</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fardee-dev&label=Profile%20views&color=0e75b6&style=flat" alt="fardee-dev" />
+<img src="https://media.giphy.com/media/VpxpIm1coCLZzvgCtB/giphy.gif?cid=ecf05e47f9mq0jf3d7m72b752a5qmscv9h2lt5powzv43jaz&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:100%; height:300px; object-fit:cover;" alt="cover"/>
+
+<p></p>
+<p align="justify">
+I am a Front-End Developer with 3 years of experience specializing in JavaScript, TypeScript, React, and Next.js. Passionate about building user-friendly and high-performance web applications, I enjoy crafting intuitive UI/UX experiences and optimizing front-end performance. Always eager to learn and stay updated with the latest technologies in the web development ecosystem.
 </p>
 
----
+## 🧠 My skills and technologies
 
-### 🧠 Skills
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="reactJs" width="65" height="65" />
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextJs" width="65" height="65" />
+      <br> NextJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="html5" width="55" height="65" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="55" height="65" alt="css" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="scss" />
+      <br>SCSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=materialui" width="55" height="65" alt="material ui" />
+      <br>Material UI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://simpleicons.org/icons/antdesign.svg" alt="antd design" width="55" height="65" style="color:#0170FE;" />
+      <br>Ant Design
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="65" alt="tailwind css" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="65" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="55" height="65" alt="styled-component" />
+      <br>Styled-...
+    </td>
+    <td align="center" width="96">
+        <img src="https://simpleicons.org/icons/chartdotjs.svg" width="55" height="65" alt="ChartJs" />
+      <br>ChartJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://simpleicons.org/icons/framer.svg" width="55" height="65" alt="Framer motion" />
+      <br>Framer
+    </td>
+    <td align="center" width="96">
+        <img src="https://simpleicons.org/icons/reactquery.svg" width="55" height="65" alt="react-query" />
+      <br>React Qu...
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="65" alt="Redux" />
+      <br>Redux
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://simpleicons.org/icons/axios.svg" width="55" height="65" alt="axios" />
+      <br>Axios
+    </td>
+    <td align="center" width="96">
+        <img src="https://next-auth.js.org/img/logo/logo-sm.png" width="55" height="65" alt="next auth" />
+      <br>NextAuth
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="55" height="65" alt="figma" />
+      <br>Figma
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="55" height="65" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="55" height="65" alt="git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="55" height="65" alt="github" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="55" height="65" alt="gitlab" />
+      <br>Gitlab
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
 
-- 💻 JavaScript / TypeScript / React / Next.js
-- 🎨 Ant Design / TailwindCSS / Figma to Code
-- 🔍 React Query / Zustand / Redux
-- ⚙️ Node.js / Express / MongoDB
+<h2>📝 My blogs on Medium</h2>
 
----
-
-### 🛠️ Tools
-
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fardee-dev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardee-dev&layout=compact&theme=radical" />
+<p>
+  <a href="https://medium.com/@fardee.tat" target="_blank">
+    <img src="https://img.shields.io/badge/-Read%20on%20Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium badge" />
+  </a>
 </p>
 
----
-
-## My favorite tools and technologies 🛠️
-
-### Languages & Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <!-- เพิ่มตามที่ต้องการ -->
-</p>
-
----
-
-### 📫 Contact
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
-- 📧 your.email@example.com
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-
----
+<ul>
+  <li>
+    🚀 <a href="https://medium.com/@fardee.tat/การใช้-react-window-กับ-react-virtualized-bbb6b1338479" target="_blank">
+      การใช้ react-window กับ react-virtualized
+    </a>
+  </li>
+  <li>
+    🌿 <a href="https://medium.com/@fardee.tat/มาทำความรู้จักกับ-virtual-dom-8d12141948a4" target="_blank">
+      มาทำความรู้จักกับ Virtual DOM
+    </a>
+  </li>
+  <li>
+    ⚙️ <a href="https://medium.com/@fardee.tat/การจัดการ-state-ใน-reactjs-a1aae3d2fa41" target="_blank">
+      การจัดการ state ใน ReactJs
+    </a>
+  </li>
+</ul>
 
 
-<!--
-**FardeeUseng/FardeeUseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/dST9a96C24I9KTi6ps/giphy.gif?cid=ecf05e47qiwu8juonpjmrje6nbrhs9p912o8ligshoaeu9j0&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:100%; height:400px; object-fit:cover;" alt="footer"/>
