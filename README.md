@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fardee</h1>
 
-<img src="https://media.giphy.com/media/VpxpIm1coCLZzvgCtB/giphy.gif?cid=ecf05e47f9mq0jf3d7m72b752a5qmscv9h2lt5powzv43jaz&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:100%; height:300px; object-fit:cover;" alt="cover"/>
+<img 
+  src="https://media.giphy.com/media/VpxpIm1coCLZzvgCtB/giphy.gif" 
+  width="100%" 
+  height="400" 
+  alt="cover"
+/>
 
 <p></p>
 <p align="justify">
@@ -142,7 +147,9 @@ I am a Front-End Developer with 3 years of experience specializing in JavaScript
   </li>
 </ul>
 
-
-
-
-<img src="https://media.giphy.com/media/dST9a96C24I9KTi6ps/giphy.gif?cid=ecf05e47qiwu8juonpjmrje6nbrhs9p912o8ligshoaeu9j0&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:100%; height:400px; object-fit:cover;" alt="footer"/>
+<img 
+  src="https://media.giphy.com/media/dST9a96C24I9KTi6ps/giphy.gif?cid=ecf05e47qiwu8juonpjmrje6nbrhs9p912o8ligshoaeu9j0&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+  width="100%" 
+  height="600" 
+  alt="cover"
+/>
