@@ -122,14 +122,14 @@
 ## 📝 My blogs on Medium
 
 <p>
-  <a href="https://medium.com/@fardee.tat" target="_blank">
+  <a href="https://medium.com/@fardee.useng" target="_blank">
     <img src="https://img.shields.io/badge/-Read%20on%20Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium badge" />
   </a>
 </p>
 
-- 🚀 [การใช้ react-window กับ react-virtualized](https://medium.com/@fardee.tat/การใช้-react-window-กับ-react-virtualized-bbb6b1338479)
-- 🌿 [มาทำความรู้จักกับ Virtual DOM](https://medium.com/@fardee.tat/มาทำความรู้จักกับ-virtual-dom-8d12141948a4)
-- ⚙️ [การจัดการ state ใน ReactJs](https://medium.com/@fardee.tat/การจัดการ-state-ใน-reactjs-a1aae3d2fa41)
+- 🚀 [การใช้ react-window กับ react-virtualized](https://medium.com/@fardee.useng/การใช้-react-window-กับ-react-virtualized-bbb6b1338479)
+- 🌿 [มาทำความรู้จักกับ Virtual DOM](https://medium.com/@fardee.useng/มาทำความรู้จักกับ-virtual-dom-8d12141948a4)
+- ⚙️ [การจัดการ state ใน ReactJs](https://medium.com/@fardee.useng/การจัดการ-state-ใน-reactjs-a1aae3d2fa41)
 
 ## 🙏 References & Credits
 
