@@ -129,7 +129,7 @@
 
 - 🚀 [การใช้ react-window กับ react-virtualized](https://medium.com/@fardee.useng/การใช้-react-window-กับ-react-virtualized-bbb6b1338479)
 - 🌿 [มาทำความรู้จักกับ Virtual DOM](https://medium.com/@fardee.useng/มาทำความรู้จักกับ-virtual-dom-8d12141948a4)
-- 🪝 [React Hooks Guide](https://medium.com/@fardee.useng/react-hooks-guide-1-เข้าใจ-usestate-และ-useeffect-f57f50b5c501)
+- 🪝 [React Hooks Guide: เรียนรู้ React Hooks พื้นฐานและตัวอย่างใช้งานจริง](https://medium.com/@fardee.useng/react-hooks-guide-1-เข้าใจ-usestate-และ-useeffect-f57f50b5c501)
 
 ## 🙏 References & Credits
 
