@@ -150,19 +150,29 @@
 
 ### 🧮 [ดีคิดให้ (DKidHai)](https://dkidhai.pages.dev/)
 
-> เครื่องมือคำนวณที่คิดให้คุณ
+> Calculators that do the thinking for you
 
-รวมเครื่องมือคำนวณออนไลน์ฟรีสำหรับคนไทย ทั้งคำนวณเกรด ภาษี ค่าผ่อนรถ ค่าไฟ BMI หารบิล และอีกมากมาย ใช้งานง่ายบนมือถือ
+A collection of free online calculators for Thai users, covering GPA, income tax, car loans, electricity bills, BMI, bill splitting and more. Designed to be easy to use on mobile.
 
 <a href="https://dkidhai.pages.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-dkidhai.pages.dev-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="dkidhai live demo" />
 </a>
 
+### 🏫 [D-Campus](https://d-campus.fardee-tat.workers.dev/)
+
+> 3D Smart Campus
+
+An interactive 3D map of a university campus. Search buildings and rooms, explore indoor floor plans, get walking directions, and switch between day and night scenes.
+
+<a href="https://d-campus.fardee-tat.workers.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-d--campus-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" alt="d-campus live demo" />
+</a>
+
 ### 🤝 ดีช่วยกัน (DChuayKan) <img src="https://img.shields.io/badge/status-in%20development-FBBF24?style=flat-square" alt="in development" />
 
-> ช่วยกันรับมือน้ำท่วม ตั้งแต่ก่อน ระหว่าง จนถึงหลังเกิดเหตุ
+> Facing floods together, before, during and after
 
-แพลตฟอร์มรับมือน้ำท่วมครบวงจร ตั้งแต่เตรียมพร้อม ขอความช่วยเหลือ (SOS) ไปจนถึงฟื้นฟูหลังน้ำลด
+An all-in-one flood response platform, from preparation and SOS requests to recovery after the water recedes.
 
 ## 📝 My blogs on Medium
 
