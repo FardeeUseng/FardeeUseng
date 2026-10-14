@@ -18,5 +18,5 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@fardee.useng"
           max_post_count: 5
-          template: "- 📌 [$title]($url)$newline"
+          template: "$newline- 📌 [$title]($url)"
           commit_message: "docs: update latest Medium blog posts"
